@@ -1,0 +1,8 @@
+/data
+.DS_Store
+/report/extra.aux
+/report/extra.fdb_latexmk
+/report/extra.fls
+/report/extra.log
+/report/extra.pdf
+/report/extra.synctex.gz
